@@ -28,4 +28,12 @@ Edson souza
 
 [GitHub](https://github.com/Edsonfrs)
 
+## Créditos
+
+Imagem do Letreiro [PIXABAY - Mohamed Hassam](https://pixabay.com/pt/users/mohamed_hassan-5229782/)
+
+Imagem [Helicoptero em meio as explosões](https://pixabay.com/images/id-3078482/)
+
+Edição da Imagem [Gimp](https://www.gimp.org)
+
 
