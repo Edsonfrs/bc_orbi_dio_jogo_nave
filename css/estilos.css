@@ -122,7 +122,7 @@ background-image:url(../assets/imgs/apache.png);
 /* Anima 2 */
 
 .anima2 {
-    background-image:url(../imgs/inimigo1.png);
+    background-image:url(../assets/imgs/inimigo1.png);
     animation: play .5s steps(2) infinite;
     -webkit-animation: play .5s steps(2) infinite;
     -moz-animation: play .5s steps(2) infinite;
@@ -133,7 +133,7 @@ background-image:url(../assets/imgs/apache.png);
 /* Anima 3 */
 
 .anima3 {
-	background-image:url(../imgs/amigo.png);
+	background-image:url(../assets/imgs/amigo.png);
 	animation:play2 .9s steps(12) infinite;
 	-webkit-animation: play2 .9s steps(12) infinite;
        -moz-animation: play2 .9s steps(12) infinite;
@@ -164,6 +164,13 @@ background-image:url(../assets/imgs/apache.png);
 @-o-keyframes play2 {
    from { background-position:    0px; }
      to { background-position: -528px; }
+}
+
+#disparo {
+	width: 50px;
+	height: 8px;
+	position: absolute;
+	background-image: url(../assets/imgs/disparo.png);
 }
 
 
