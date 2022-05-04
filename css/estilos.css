@@ -173,4 +173,19 @@ background-image:url(../assets/imgs/apache.png);
 	background-image: url(../assets/imgs/disparo.png);
 }
 
+#explosao1 {
+	width:15px;
+	height:87px;
+	position:absolute;
+
+}
+
+#explosao2 {
+	width:15px;
+	height:87px;
+	position:absolute;
+	
+}
+
+
 
