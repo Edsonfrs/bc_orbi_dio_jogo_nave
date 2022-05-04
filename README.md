@@ -9,6 +9,12 @@ Construção de um jogo de nave (Space Shooter), utilizando somente HTML para es
 * CSS3
 * Javascript
 
+## Tela
+
+<img src="./img/tela01.png">
+
+
+
 
 ## Instrutor(a)
 
